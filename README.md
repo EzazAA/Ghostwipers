@@ -1,1 +1,1 @@
-# Ghostwipers
+# Ghostwipers - uncover our signature style

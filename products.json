@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Bloody mysteria Hoodie",
-    "price": 799,
+    "price": 899,
     "image": "../ghostwipers/hysteria.png",
     "image2": "../ghostwipers/Black.png",
     "category": "Streetwear",
@@ -13,7 +13,7 @@
   {
     "id": 2,
     "name": "Dragon themed hoodie",
-    "price": 799,
+    "price": 899,
     "image": "../ghostwipers/dragon.png",
     "image2": "../ghostwipers/Black.png",
     "category": "Streetwear",
@@ -23,33 +23,77 @@
   {
     "id": 3,
     "name": "Sunset with car Hoodie",
-    "price": 799,
+    "price": 899,
     "image": "../ghostwipers/car-sunset.png",
     "image2": "../ghostwipers/White.png",
     "category": "Streetwear",
     "description": "A comfortable 360 GSM for streetwear and casual look, it is available in different colors and is very affordable. ",
-    "isFeatured": true
   },
   {
-    "id": 4,
-    "name": "naruto Anime hoodie",
-    "price": 799,
-    "image": "../ghostwipers/naruto.png",
-    "image2": "../ghostwipers/White.png",
+    "id": 6,
+    "name": "Road Kings T-shirt",
+    "price": 899,
+    "image": "../ghostwipers/gt-t.png",
+    "image2": "../ghostwipers/front-n-t.png",
+    "category": "Streetwear",
+    "description": "A comfortable 360 GSM for streetwear and casual look, it is available in different colors and is very affordable. ",
+    "isFeatured": true
+
+  },
+  {
+    "id": 7,
+    "name": "Baklama Anime T shirt",
+    "price": 899,
+    "image": "../ghostwipers/bak-t.png",
+    "image2": "../ghostwipers/front-n-t.png",
     "category": "Anime",
-    "description": "A comfortable 360 GSM for streetwear and casual look with Anime design, it is available in different colors and is very affordable. ",
+    "description": "A comfortable 360 GSM for streetwear and casual look, it is available in different colors and is very affordable. ",
     "isFeatured": true
-    
+
   },
   {
-    "id": 5,
-    "name": "Log Kya kahenge",
-    "price": 799,
-    "image": "../ghostwipers/lkk.png",
-    "image2": "../ghostwipers/White.png",
-    "category": "Casual",
-    "description": "A comfortable 360 GSM for casual look, it is available in different colors and is very affordable. ",
+    "id": 8,
+    "name": "Bloody Mysteria T-shirt",
+    "price": 899,
+    "image": "../ghostwipers/hysteria.png",
+    "image2": "../ghostwipers/front-n-t.png",
+    "category": "Streetwear",
+    "description": "A comfortable 360 GSM for streetwear and casual look, it is available in different colors and is very affordable. ",
     "isFeatured": true
-    
-  }
+
+  },
+  {
+    "id": 1,
+    "name": "Free Skeletons T-Shirt",
+    "price": 899,
+    "image": "../ghostwipers/skel-t.png",
+    "image2": "../ghostwipers/front-n-t.png",
+    "category": "Streetwear",
+    "description": "A comfortable 360 GSM for streetwear and casual look, it is available in different colors and is very affordable. ",
+    "isFeatured": true
+
+  },
+  {
+    "id": 1,
+    "name": "Starry Nights by Van Gogh",
+    "price": 899,
+    "image": "../ghostwipers/str-t-b.png",
+    "image2": "../ghostwipers/str-t-f.png",
+    "category": "Casual",
+    "description": "A comfortable 360 GSM for streetwear and casual look, it is available in different colors and is very affordable. ",
+    "isFeatured": true
+
+  },
+  {
+    "id": 1,
+    "name": "Weeken",
+    "price": 899,
+    "image": "../ghostwipers/wknd-t.png",
+    "image2": "../ghostwipers/front-n-t.png",
+    "category": "Streetwear",
+    "description": "A comfortable 360 GSM for streetwear and casual look, it is available in different colors and is very affordable. ",
+    "isFeatured": true
+
+  },
+  
 ]

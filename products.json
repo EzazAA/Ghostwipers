@@ -1,33 +1,5 @@
 [
-  {
-    "id": 1,
-    "name": "Premium Bloody Mysteria Hoodie",
-    "price": 899,
-    "image": "../ghostwipers/hysteria.png",
-    "image2": "../ghostwipers/Black.png",
-    "category": "Streetwear",
-    "description": "The Premium Bloody Mysteria Hoodie features a 350 GSM fabric that combines streetwear style with comfort. This hoodie is available in multiple colors and designed for those who want to make a statement in casual fashion.",
-    "isFeatured": true
-  },
-  {
-    "id": 2,
-    "name": "Premium Dragon Themed Hoodie",
-    "price": 899,
-    "image": "../ghostwipers/dragon.png",
-    "image2": "../ghostwipers/Black.png",
-    "category": "Streetwear",
-    "description": "The Premium Dragon Themed Hoodie offers a bold design with intricate dragon graphics. Made from a soft and comfortable 350 GSM fabric, it provides both comfort and style for casual and streetwear enthusiasts."
-  },
-  {
-    "id": 3,
-    "name": "Premium Sunset with Car Hoodie",
-    "price": 899,
-    "image": "../ghostwipers/car-sunset.png",
-    "image2": "../ghostwipers/White.png",
-    "category": "Streetwear",
-    "description": "The Premium Sunset with Car Hoodie combines a stunning sunset graphic with a sleek car silhouette. Crafted from a premium 350 GSM fabric, it is perfect for casual wear while providing maximum comfort and style."
-  },
-  {
+    {
     "id": 4,
     "name": "Premium Road Kings T-shirt",
     "price": 899,
@@ -87,4 +59,33 @@
     "description": "The Premium Weekend Streetwear T-shirt is the perfect casual wear for your weekend adventures. Crafted from high-quality 240 GSM fabric, this shirt brings together both comfort and urban style for your streetwear needs.",
     "isFeatured": true
   }
+  {
+    "id": 1,
+    "name": "Premium Bloody Mysteria Hoodie",
+    "price": 899,
+    "image": "../ghostwipers/hysteria.png",
+    "image2": "../ghostwipers/Black.png",
+    "category": "Streetwear",
+    "description": "The Premium Bloody Mysteria Hoodie features a 350 GSM fabric that combines streetwear style with comfort. This hoodie is available in multiple colors and designed for those who want to make a statement in casual fashion.",
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "name": "Premium Dragon Themed Hoodie",
+    "price": 899,
+    "image": "../ghostwipers/dragon.png",
+    "image2": "../ghostwipers/Black.png",
+    "category": "Streetwear",
+    "description": "The Premium Dragon Themed Hoodie offers a bold design with intricate dragon graphics. Made from a soft and comfortable 350 GSM fabric, it provides both comfort and style for casual and streetwear enthusiasts."
+  },
+  {
+    "id": 3,
+    "name": "Premium Sunset with Car Hoodie",
+    "price": 899,
+    "image": "../ghostwipers/car-sunset.png",
+    "image2": "../ghostwipers/White.png",
+    "category": "Streetwear",
+    "description": "The Premium Sunset with Car Hoodie combines a stunning sunset graphic with a sleek car silhouette. Crafted from a premium 350 GSM fabric, it is perfect for casual wear while providing maximum comfort and style."
+  }
+
 ]

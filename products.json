@@ -1,90 +1,90 @@
 [
   {
     "id": 1,
-    "name": "Bloody Mysteria Hoodie",
+    "name": "Premium Bloody Mysteria Hoodie",
     "price": 899,
     "image": "../ghostwipers/hysteria.png",
     "image2": "../ghostwipers/Black.png",
     "category": "Streetwear",
-    "description": "A comfortable 360 GSM for streetwear and casual look, it is available in different colors and is very affordable.",
+    "description": "The Premium Bloody Mysteria Hoodie features a 350 GSM fabric that combines streetwear style with comfort. This hoodie is available in multiple colors and designed for those who want to make a statement in casual fashion.",
     "isFeatured": true
   },
   {
     "id": 2,
-    "name": "Dragon Themed Hoodie",
+    "name": "Premium Dragon Themed Hoodie",
     "price": 899,
     "image": "../ghostwipers/dragon.png",
     "image2": "../ghostwipers/Black.png",
     "category": "Streetwear",
-    "description": "A comfortable 360 GSM for streetwear and casual look, it is available in different colors and is very affordable."
+    "description": "The Premium Dragon Themed Hoodie offers a bold design with intricate dragon graphics. Made from a soft and comfortable 350 GSM fabric, it provides both comfort and style for casual and streetwear enthusiasts."
   },
   {
     "id": 3,
-    "name": "Sunset with Car Hoodie",
+    "name": "Premium Sunset with Car Hoodie",
     "price": 899,
     "image": "../ghostwipers/car-sunset.png",
     "image2": "../ghostwipers/White.png",
     "category": "Streetwear",
-    "description": "A comfortable 360 GSM for streetwear and casual look, it is available in different colors and is very affordable."
+    "description": "The Premium Sunset with Car Hoodie combines a stunning sunset graphic with a sleek car silhouette. Crafted from a premium 350 GSM fabric, it is perfect for casual wear while providing maximum comfort and style."
   },
   {
     "id": 4,
-    "name": "Road Kings T-shirt",
+    "name": "Premium Road Kings T-shirt",
     "price": 899,
     "image": "../ghostwipers/gt-t.jpeg",
     "image2": "../ghostwipers/front-n-t.jpeg",
     "category": "Streetwear",
-    "description": "A comfortable 360 GSM for streetwear and casual look, it is available in different colors and is very affordable.",
+    "description": "The Premium Road Kings T-shirt features a unique design inspired by road culture. Made from high-quality 240 GSM fabric, this shirt offers a premium fit and feel, perfect for streetwear lovers.",
     "isFeatured": true
   },
   {
     "id": 5,
-    "name": "Baklama Anime T-shirt",
+    "name": "Premium Baklama Anime T-shirt",
     "price": 899,
     "image": "../ghostwipers/bak-t.jpeg",
     "image2": "../ghostwipers/front-n-t.jpeg",
     "category": "Anime",
-    "description": "A comfortable 360 GSM for streetwear and casual look, it is available in different colors and is very affordable.",
+    "description": "The Premium Baklama Anime T-shirt features stunning anime-inspired artwork. This shirt combines premium 240 GSM fabric with a design that appeals to anime fans and streetwear aficionados alike.",
     "isFeatured": true
   },
   {
     "id": 6,
-    "name": "Bloody Mysteria T-shirt",
+    "name": "Premium Bloody Mysteria T-shirt",
     "price": 899,
-    "image": "../ghostwipers/hysteria.jpeg",
+    "image": "../ghostwipers/hysteria-t.jpeg",
     "image2": "../ghostwipers/front-n-t.jpeg",
     "category": "Streetwear",
-    "description": "A comfortable 360 GSM for streetwear and casual look, it is available in different colors and is very affordable.",
+    "description": "The Premium Bloody Mysteria T-shirt offers a graphic design that embodies the essence of bold streetwear. Made from soft and comfortable 240 GSM fabric, it’s ideal for making a statement wherever you go.",
     "isFeatured": true
   },
   {
     "id": 7,
-    "name": "Free Skeletons T-Shirt",
+    "name": "Premium Free Skeletons T-Shirt",
     "price": 899,
     "image": "../ghostwipers/skel-t.jpeg",
     "image2": "../ghostwipers/front-n-t.jpeg",
     "category": "Streetwear",
-    "description": "A comfortable 360 GSM for streetwear and casual look, it is available in different colors and is very affordable.",
+    "description": "The Premium Free Skeletons T-shirt features an edgy skeleton design, perfect for those who want to embrace a more alternative style. With its 240 GSM fabric, it’s designed to keep you comfortable and stylish all day.",
     "isFeatured": true
   },
   {
     "id": 8,
-    "name": "Starry Nights by Van Gogh",
+    "name": "Premium Starry Nights by Van Gogh T-shirt",
     "price": 899,
     "image": "../ghostwipers/str-t-b.jpeg",
     "image2": "../ghostwipers/str-t-f.jpeg",
     "category": "Casual",
-    "description": "A comfortable 360 GSM for streetwear and casual look, it is available in different colors and is very affordable.",
+    "description": "The Premium Starry Nights by Van Gogh T-shirt is a wearable piece of art. Inspired by Van Gogh's famous painting, this shirt features a design that captures both classic art and contemporary streetwear style. Made with 240 GSM fabric for comfort and durability.",
     "isFeatured": true
   },
   {
     "id": 9,
-    "name": "Weeken",
+    "name": "Premium Weekend Streetwear T-Shirt",
     "price": 899,
     "image": "../ghostwipers/wknd-t.jpeg",
     "image2": "../ghostwipers/front-n-t.jpeg",
     "category": "Streetwear",
-    "description": "A comfortable 360 GSM for streetwear and casual look, it is available in different colors and is very affordable.",
+    "description": "The Premium Weekend Streetwear T-shirt is the perfect casual wear for your weekend adventures. Crafted from high-quality 240 GSM fabric, this shirt brings together both comfort and urban style for your streetwear needs.",
     "isFeatured": true
   }
 ]
